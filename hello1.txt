@@ -1,4 +1,9 @@
 hekl vhjdfbvf
 nblkfdnvfdl
 vfdvkf
+<<<<<<< HEAD
 vf' j kbkjbkjnn
+=======
+vf'dsclks'ck
+dndsvb;dsjv
+>>>>>>> origin/master
